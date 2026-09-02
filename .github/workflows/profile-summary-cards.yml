@@ -19,9 +19,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          username: boshi-xixixi
-          theme: radical
+          USERNAME: boshi-xixixi
+          BRANCH_NAME: output
+          THEME: radical
+          UTC_OFFSET: 8
