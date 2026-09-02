@@ -71,9 +71,7 @@
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=boshi-xixixi&row=1&column=8&margin-w=8&theme=radical&no-frame=true)](https://github.com/boshi-xixixi)
 
-<!-- 贪吃蛇：先按 snake-action.yml 配置 GitHub Actions，生成后取消下面这行的注释
 <img src="https://raw.githubusercontent.com/boshi-xixixi/boshi-xixixi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
--->
 
 </div>
 
