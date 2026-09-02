@@ -26,6 +26,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: boshi-xixixi
-          BRANCH_NAME: output
+          BRANCH_NAME: main
           THEME: radical
           UTC_OFFSET: 8
