@@ -63,12 +63,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=boshi-xixixi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_bust=20260902" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshi-xixixi&layout=compact&theme=radical&langs_count=8&hide_border=false&cache_bust=20260902" alt="Top Langs" />
+<img height="210" src="https://cdn.jsdelivr.net/gh/boshi-xixixi/boshi-xixixi@main/profile-summary-card-output/radical/3-stats.svg" alt="GitHub Stats" />
+<img height="210" src="https://cdn.jsdelivr.net/gh/boshi-xixixi/boshi-xixixi@main/profile-summary-card-output/radical/1-repos-per-language.svg" alt="Repos per Language" />
 
 <img src="https://streak-stats.demolab.com?user=boshi-xixixi&theme=radical&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=boshi-xixixi&row=1&column=8&margin-w=8&theme=radical&no-frame=true&cache_bust=20260902)](https://github.com/boshi-xixixi)
 
 <img src="https://cdn.jsdelivr.net/gh/boshi-xixixi/boshi-xixixi@output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
