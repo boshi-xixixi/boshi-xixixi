@@ -20,7 +20,6 @@
 
 - 🎓 **辽宁科技学院 · 数据科学与大数据技术** 本科在读（2025 - 2027）；中职（专业 1/193）→ 高职（专业 1/154，GPA 4.25）→ 本科（专业 3/106），三段学业均在专业前列
 - 🤖 **AI 产品方向**：开源项目 [TraeSkill](https://github.com/boshi-xixixi/TraeSkill) 作者（**250+ Star / 60+ Fork**）；Trae 官方飞书社群 & 论坛管理者
-- 💼 **字节跳动多段线上实习**：AI 数据处理（大模型标注/采集）、智能硬件整机测试、豆包编程社群运营（产出产品思路与竞品分析文档 10+ 篇）
 - 🏆 **常驻 AI 编程赛场**：字节 Trae 大连黑客松 🥇、全国职业院校技能大赛二等奖、百度秒哒全国二等奖、美团黑客松全国前 30
 - 🛠️ 独立完成从产品设计到全栈开发落地：Python / Flask、Java、Flutter、Vue、云服务器部署、小程序
 
@@ -64,14 +63,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=boshi-xixixi&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshi-xixixi&layout=compact&theme=radical&langs_count=8&hide_border=false" alt="Top Langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=boshi-xixixi&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_bust=20260902" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boshi-xixixi&layout=compact&theme=radical&langs_count=8&hide_border=false&cache_bust=20260902" alt="Top Langs" />
 
 <img src="https://streak-stats.demolab.com?user=boshi-xixixi&theme=radical&locale=zh_Hans&short_numbers=true" alt="GitHub Streak" />
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=boshi-xixixi&row=1&column=8&margin-w=8&theme=radical&no-frame=true)](https://github.com/boshi-xixixi)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=boshi-xixixi&row=1&column=8&margin-w=8&theme=radical&no-frame=true&cache_bust=20260902)](https://github.com/boshi-xixixi)
 
-<img src="https://raw.githubusercontent.com/boshi-xixixi/boshi-xixixi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://cdn.jsdelivr.net/gh/boshi-xixixi/boshi-xixixi@output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
