@@ -8,7 +8,7 @@
 
 # 你好，我是李世博 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=AI+产品经理+·+用代码验证产品想法;TraeSkill+作者+·+250%2B+Star;数据科学与大数据+本科在读;字节+Trae+大连黑客松+冠军+%F0%9F%8F%86;从中职到本科+三段学业专业前三)](https://github.com/boshi-xixixi)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=学生开发者+·+用代码验证想法;TraeSkill+作者+·+250%2B+Star;数据科学与大数据+本科在读;字节+Trae+大连黑客松+冠军+%F0%9F%8F%86;从中职到本科+三段学业专业前三)](https://github.com/boshi-xixixi)
 
 [![Email](https://img.shields.io/badge/邮箱-755508842%40qq.com-red?logo=maildotru&logoColor=white)](mailto:755508842@qq.com)
 ![Location](https://img.shields.io/badge/📍大连-Live-purple)
@@ -19,7 +19,7 @@
 ## 🧑‍💻 关于我
 
 - 🎓 **辽宁科技学院 · 数据科学与大数据技术** 本科在读（2025 - 2027）；中职（专业 1/193）→ 高职（专业 1/154，GPA 4.25）→ 本科（专业 3/106），三段学业均在专业前列
-- 🤖 **AI 产品方向**：开源项目 [TraeSkill](https://github.com/boshi-xixixi/TraeSkill) 作者（**250+ Star / 60+ Fork**）；Trae 官方飞书社群 & 论坛管理者
+- 🤖 **AI 应用开发**：开源项目 [TraeSkill](https://github.com/boshi-xixixi/TraeSkill) 作者（**250+ Star / 60+ Fork**）；Trae 官方飞书社群 & 论坛管理者
 - 🏆 **常驻 AI 编程赛场**：字节 Trae 大连黑客松 🥇、全国职业院校技能大赛二等奖、百度秒哒全国二等奖、美团黑客松全国前 30
 - 🛠️ 独立完成从产品设计到全栈开发落地：Python / Flask、Java、Flutter、Vue、云服务器部署、小程序
 
